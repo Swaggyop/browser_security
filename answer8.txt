@@ -1,0 +1,123 @@
+8. Document steps taken and extensions removed.
+
+
+To complete this task, I carefully followed a structured approach to inspect my browser’s extensions, evaluate their safety, and ensure the browser’s integrity. Below is a detailed documentation of all the steps I undertook:
+
+
+
+🔹 Step 1: Opened Extension Manager
+
+
+Launched Google Chrome and entered the URL chrome://extensions to open the Extension Manager.
+
+This interface displays all installed extensions, their current status (enabled or disabled), and options to inspect or remove them.
+
+
+
+🔹 Step 2: Reviewed All Installed Extensions
+
+
+Upon accessing the manager, I observed that only one extension was installed:
+
+Extension Name: Google Docs Offline
+
+Version: 1.92.1
+
+Status: Enabled
+
+Purpose: Allows offline access to Google Docs, Sheets, and Slides.
+
+
+
+🔹 Step 3: Analyzed Permissions and Reviews
+
+
+I clicked on the "Details" button of the extension to view the permissions it requires.
+
+Permissions included:
+
+Access to Google Docs files.
+
+Access to local storage (for offline document saving).
+
+Then, I cross-checked the extension on the Chrome Web Store, confirming:
+
+It is developed by Google LLC (trusted).
+
+It has millions of users, high ratings, and no reported security concerns.
+
+No red flags were found regarding malicious behavior or excessive permissions.
+
+
+
+🔹 Step 4: Identified Suspicious or Unnecessary Extensions
+
+
+Since only one extension was installed, and it was verified as both safe and necessary, no extensions were flagged as suspicious or unused.
+
+I used criteria such as:
+
+Unfamiliar names or unknown developers.
+
+Unusually broad permissions.
+
+Poor user ratings or reviews mentioning data leaks, redirection, etc.
+
+
+
+🔹 Step 5: Removal of Extensions
+
+
+No extensions were removed, as there were no suspicious or unwanted extensions found during the review.
+
+If any had been detected, I would have clicked on the “Remove” button to uninstall them immediately and logged the reason for their removal.
+
+
+
+🔹 Step 6: Restarted the Browser
+
+
+After completing the review, I closed and restarted Chrome to verify system stability and check for any performance improvements.
+
+Result: The browser was already functioning smoothly; no abnormal behavior was observed.
+
+
+
+🔹 Step 7: Conducted Research on Malicious Extensions:
+
+
+Explored how malicious extensions function (e.g., data theft, ad injection, cryptojacking).
+
+Reaffirmed why regular audits and minimal extension usage are crucial for cybersecurity hygiene.
+
+
+
+🔹 Step 8: Compiled Report:
+
+
+Created this full documentation including:
+
+Screenshot evidence (as attached/uploaded earlier)
+
+Evaluation findings
+
+Security research
+
+Final conclusion and best practices
+
+
+
+📝 Summary Table of Reviewed Extension:
+
+
+| **Extension Name**  | **Version** | **Publisher** | **Status** | **Action Taken** | **Remarks**                      |
+| ------------------- | ----------- | ------------- | ---------- | ---------------- | -------------------------------- |
+| Google Docs Offline | 1.92.1      | Google LLC    | Enabled    | Retained         | Safe, useful, verified extension |
+
+
+
+✅ Final Statement:
+
+
+Although no extensions were removed during this exercise, the task reinforced the importance of regularly auditing browser extensions. Even a single malicious plugin can compromise system security, user data, or performance. Keeping extensions minimal and verified is a best practice I will continue to follow and promote.
+

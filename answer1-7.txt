@@ -1,0 +1,131 @@
+🔐 Cybersecurity Internship Task
+
+Task Title: Identifying and Removing Potentially Harmful Browser Extensions
+Tool Used: Google Chrome
+Date: 05 June 2025
+
+🧾 Objective:
+
+To identify, analyze, and remove any potentially harmful or unnecessary browser extensions that may compromise user privacy or system performance.
+
+🧩 Answers to Task Questions 
+
+1. Open your browser’s extension/add-ons manager.
+
+I opened the extension manager in Google Chrome by navigating to chrome://extensions. This panel displays all currently installed browser extensions, both enabled and disabled. It also allows users to view extension details, permissions, and remove them if necessary.
+
+
+
+2. Review all installed extensions carefully.
+
+
+Upon accessing the extension panel, I found that only one extension was installed on the browser:
+
+Google Docs Offline (v1.92.1)
+This extension allows the creation, editing, and viewing of Google Docs, Sheets, and Slides without internet access. Since it is developed by Google LLC, it is considered safe and trustworthy.
+
+
+
+3. Check permissions and reviews for each extension.
+
+
+For the Google Docs Offline extension:
+
+I clicked on the “Details” button to review the permissions.
+
+The extension requested access to:
+
+Google Drive (to sync files offline)
+
+File system storage (to save temporary files)
+
+On checking the Chrome Web Store, the extension had high ratings and millions of users with mostly positive reviews.
+
+No suspicious behavior was mentioned in any user comments.
+
+This confirms that the extension is legitimate and safe for use.
+
+
+
+4. Identify any unused or suspicious extensions.
+
+
+After reviewing the extension list:
+
+There were no unused or suspicious extensions installed.
+
+The system appears to be clean, with only a necessary and official productivity extension.
+
+Hence, no action was needed for removal at this stage.
+
+
+
+5. Remove suspicious or unnecessary extensions.
+
+
+Since no suspicious or unknown extensions were found, I did not remove any extension.
+If any had been identified, I would have removed them using the “Remove” button and noted their names and behavior for documentation.
+
+
+
+6. Restart browser and check for performance improvements.
+
+
+After reviewing the extensions:
+
+I closed and reopened Google Chrome to assess performance.
+
+Since no malicious or heavy extensions were running, the browser already performed well and remained stable after restart.
+
+No abnormal popups, CPU spikes, or redirections occurred.
+
+
+
+7. Research how malicious extensions can harm users.
+
+
+Malicious browser extensions pose serious threats to user privacy, data security, and system performance. Here are some key ways they harm users:
+
+🔸 1. Data Theft
+Extensions can access sensitive data such as:
+
+Browser history
+
+Keystrokes (e.g., login credentials)
+
+Form inputs (e.g., credit card info)
+
+Example: Some rogue ad-blockers have been found harvesting personal data and selling it to third-party advertisers.
+
+🔸 2. Session Hijacking
+Malicious extensions can hijack cookies or session tokens, allowing attackers to impersonate users on websites like Gmail or banking portals.
+
+
+🔸 3. Ad Injection & Redirection
+Some extensions modify website content to inject ads, popups, or redirect users to phishing or scam websites.
+
+
+🔸 4. Cryptojacking
+Background scripts can secretly mine cryptocurrency, consuming CPU/GPU resources without user consent. This slows down the system and increases power usage.
+
+
+🔸 5. Remote Code Execution
+Vulnerable extensions can act as a bridge for attackers to execute malicious code, install malware, or access files on the system.
+
+
+🔸 6. Surveillance & Spying
+Extensions can silently monitor every website visited and sell browsing data for advertising or political manipulation.
+
+
+
+
+📌 Example Incidents:
+
+
+DataSpii Incident (2019): Several Chrome and Firefox extensions were caught collecting browsing history and leaking corporate secrets.
+
+Great Suspender (2021): A once-popular Chrome extension was sold to unknown developers and updated to include spyware-like behavior.
+
+
+⚠️ This is why browser extension security is a critical part of modern cybersecurity hygiene.
+
